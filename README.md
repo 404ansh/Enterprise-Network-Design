@@ -1,6 +1,6 @@
-# Enterprise-Network-Design
-Multi-branch enterprise network design using Cisco Packet Tracer (VLANs, OSPF, HSRP, DHCP, WLC WLAN, Server Farm).
+
 # Enterprise Network Design — Cloud Co (Cisco Packet Tracer)
+Multi-branch enterprise network design using Cisco Packet Tracer (VLANs, OSPF, HSRP, DHCP, WLC WLAN, Server Farm).
 
 This project was created as part of my networking coursework. It demonstrates the design and implementation of a **multi-branch enterprise network** using Cisco Packet Tracer.  
 
